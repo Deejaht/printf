@@ -189,6 +189,6 @@ run, the file is already inside
 
 ## Authors
 
-- **Hadijat Abubakar(NIR)** 
-- **Aziwe Mlangeni(SA)**
+- **Hadijat Abubakar(NIR)**[https://github.com/Deejaht]
+- **Aziwe Mlangeni(SA)**[https://github.com/Manqoba-123]
 
