@@ -1,6 +1,6 @@
 0x11. C - printf team project
 
-The collaboration of Hadijat Abubakar(NIR) and Aziwe Mlangeni(SA)
+Greetings fellow students this the first group/team work of Hadijat Abubakar(NIR) and Aziwe Mlangeni(SA)
 
 Group Project:                                                                      
                                                                                     
